@@ -1,0 +1,11 @@
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\bin\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.deps.json
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\bin\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.runtimeconfig.json
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\bin\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\bin\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.dll
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\bin\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.pdb
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.dll
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.pdb
+C:\Users\Gabri\source\repos\BooklistUdemyMVCLesson\BooklistUdemyMVCLesson\obj\Debug\netcoreapp2.0\BooklistUdemyMVCLesson.csprojAssemblyReference.cache
